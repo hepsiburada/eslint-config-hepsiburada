@@ -1,7 +1,6 @@
 # eslint-config-hepsiburada
 
-[![npm version](https://badge.fury.io/js/eslint-config-hepsiburada.svg)]
-(http://badge.fury.io/js/eslint-config-hepsiburada)
+[![npm version](https://badge.fury.io/js/eslint-config-hepsiburada.svg)](http://badge.fury.io/js/eslint-config-hepsiburada)
 
 This package is based on Airbnb config and provides hepsiburada's .eslintrc as an extensible shared config.
 
