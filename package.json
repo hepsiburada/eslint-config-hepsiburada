@@ -1,12 +1,28 @@
 {
   "name": "eslint-config-hepsiburada",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "ESLint shareable config for the Hepsiburada style",
+  "main": "legacy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "javascript",
+    "styleguide"
+  ],
   "author": "",
-  "license": "ISC"
+  "repository": "git@github.com:hepsiburada/eslint-config-hepsiburada.git",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb": "^6.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^2.5.3"
+  },
+  "peerDependencies": {
+    "eslint": ">=2"
+  }
 }
