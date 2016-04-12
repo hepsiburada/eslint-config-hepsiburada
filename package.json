@@ -21,7 +21,8 @@
   "repository": "git@github.com:hepsiburada/eslint-config-hepsiburada.git",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-airbnb": "^7.0.0"
+    "eslint-config-airbnb": "^7.0.0",
+    "eslint-plugin-json": "^1.2.0"
   },
   "devDependencies": {
     "eslint": "^2.7.0"

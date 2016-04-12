@@ -2,6 +2,7 @@
 
 module.exports = {
   extends: 'airbnb/legacy',
+  plugins: ['json'],
   rules: {
     'func-names': 'off',
     'vars-on-top': 'off',
