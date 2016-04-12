@@ -8,7 +8,7 @@
     "minor": "npm version minor -m 'New minor version %s' && npm publish",
     "patch": "npm version patch -m 'New patch version %s' && npm publish",
     "postpublish": "git push && git push --tags",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint ."
   },
   "keywords": [
     "eslint",
