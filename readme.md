@@ -1,6 +1,11 @@
 # eslint-config-hepsiburada
 
 [![npm version](https://badge.fury.io/js/eslint-config-hepsiburada.svg)](http://badge.fury.io/js/eslint-config-hepsiburada)
+[![Dependency Status](https://david-dm.org/hepsiburada/eslint-config-hepsiburada.svg)](https://david-dm.org/hepsiburada/eslint-config-hepsiburada)
+[![DevDependency Status](https://david-dm.org/hepsiburada/eslint-config-hepsiburada/dev-status.svg)](https://david-dm.org/hepsiburada/eslint-config-hepsiburada#info=devDependencies)
+[![PeerDependency Status](https://david-dm.org/hepsiburada/eslint-config-hepsiburada/peer-status.svg)](https://david-dm.org/hepsiburada/eslint-config-hepsiburada#info=peerDependencies)
+[![Build Status](https://travis-ci.org/hepsiburada/eslint-config-hepsiburada.svg?branch=master)](https://travis-ci.org/hepsiburada/eslint-config-hepsiburada)
+
 
 This package is based on Airbnb config and provides hepsiburada's .eslintrc as an extensible shared config.
 
